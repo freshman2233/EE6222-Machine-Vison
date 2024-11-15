@@ -106,7 +106,7 @@ GAN for 3D
 
 
 
-## 2.Find out a mistake 答案有错
+## 3.Find out a mistake 答案有错
 
 As there is no standard answer, if you detect any error in the answer, it is due to my limited knowledge level. 
 
@@ -120,7 +120,7 @@ My Email: freshmanfreshman0011@gmail.com
 
 My Wechat: freshman2233
 
-## 3.Declare 免责声明
+## 4.Declare 免责声明
 
 This resource is for learning and communication only. It is strictly prohibited for commercial use. Please delete it within 24 hours.
 
