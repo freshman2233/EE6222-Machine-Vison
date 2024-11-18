@@ -1,123 +1,110 @@
-# EE6222 Machine Vison 机器视觉
+# EE6222 Machine Vison
 
 ## 1.Content 内容
 
 1.Reference answers to final examination questions
 
-1.期末考题参考答案
-
 2.PPT Example reference answer
 
-2.PPT示例参考答案
+## 2. Machine vision, exam scope
 
+Chapter 2, linear translation invariant systems and transformations
 
+In Chapter 9, dimension reduction of visual data is used as feature extraction
 
-## 2.机器视觉，考试范围
+Chapter 10, Neural Networks and Deep Learning, from MLP to CNN
 
-第二章，线性平移不变系统与转换
+Chapter 12, Video analysis
 
-第九章，视觉数据降维作为特征提取
+Chapter 13, Video recognition
 
-第十章，神经网络与深度学习，从MLP到CNN
+Chapter 14, 3D machine perception
 
-第十二章，视频分析
-
-第十三章，视频识别
-
-第十四章，三维机器感知
-
-第十五章，三维机器视觉
+Chapter 15, 3D machine Vision
 
 -------------
 
-其中LSI线性平移不变系统与转换
+Where LSI linear translation invariant systems and transformations
 
-包括，线性平移不变系统介绍
+Includes, introduction to linear translation invariant systems
 
-傅里叶变换
+Fourier transform
 
-图像采样
+Image sampling
 
 ------------
 
-视觉数据降维作为特征提取
+Visual data dimensionality reduction as feature extraction
 
-包括，特征提取/降维介绍
+Includes, feature extraction/dimension reduction introduction
 
-PCA，主成分分析
+PCA, principal component analysis
 
-LDA，线性判别分析
+LDA, linear discriminant analysis
 
-子空间/特征空间的分类
+Classification of subspaces/feature Spaces
 
 ---
 
-神经网络与深度学习，从MLP到CNN
+Neural networks and deep Learning, from MLP to CNN
 
-包括，网络结构和神经元模型
+Including network structure and neuron model
 
-多层感知器与反向传播
+Multilayer perceptron and backpropagation
 
-卷积神经网络CNN
+Convolutional neural networks CNN
 
 --------------
 
-视频：生成 
+Video: Generate
 
-1.自动编码器
+1. Automatic encoder
 
-2.对抗学习
+2. Antagonistic learning
 
 -----------
 
-视频：分析/增强 
+Video: Analysis/Enhancement
 
-1.目标检测与跟踪
+1. Target detection and tracking
 
-2.行为识别  
+2. Behavior recognition
 
-3.视频事件/异常检测
+3. Video event/exception detection
 
-4.视频增强
+4. Video enhancement
 
-5.光流
+5. Optical flow
 
-6.视频分割
+6. Video segmentation
 
 ----------------
 
-3D：关键点和运动结构
+3D: Key points and motion structure
 
-3D：立体匹配及其他
+3D: Stereo matching and more
 
-3D方法
+3D method
 
-立体成像
+Stereoscopic imaging
 
-3D遇上深度学习
+3D meets deep learning
 
 GAN for 3D
 
-----------
 
 
-
-## 3.Find out a mistake 答案有错
+## 3.Find out a mistake 
 
 As there is no standard answer, if you detect any error in the answer, it is due to my limited knowledge level. 
 
-由于没有标准答案，如果你发现答案有错误，那是由于我的知识水平有限。
-
 Please leave a message or send an email or some Wechat messages to me and I will update the version as soon as possible. 
-
-请留言或发邮件或微信给我，我会尽快更新版本。
 
 My Email: freshmanfreshman0011@gmail.com
 
 My Wechat: freshman2233
 
-## 4.Declare 免责声明
+## 4.Declare
 
 This resource is for learning and communication only. It is strictly prohibited for commercial use. Please delete it within 24 hours.
 
-此资源仅供学习和交流使用。严禁用于商业用途。请在24小时内删除。
