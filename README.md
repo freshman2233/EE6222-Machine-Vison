@@ -1,12 +1,30 @@
 # EE6222 Machine Vison
 
-## 1.Content 内容
+## 1.Content
 
 1.Reference answers to final examination questions
 
 2.PPT Example reference answer
 
-## 2. Machine vision, exam scope
+## 2.Find out a mistake
+
+As there is no standard answer, if you detect any error in the answer, it is due to my limited knowledge level. 
+
+Please leave a message or send an email or some Wechat messages to me and I will update the version as soon as possible. 
+
+My Email: freshmanfreshman0011@gmail.com
+
+My Wechat: freshman2233
+
+## 3.Declare
+
+This resource is for learning and communication only. It is strictly prohibited for commercial use. Please delete it within 24 hours.
+
+## 4.GitHub Sponsors
+
+If you like this project, please consider supporting us through GitHub Sponsors! Thank you for your support!
+
+## 5. Machine vision, exam scope
 
 Chapter 2, linear translation invariant systems and transformations
 
@@ -22,21 +40,17 @@ Chapter 14, 3D machine perception
 
 Chapter 15, 3D machine Vision
 
--------------
+### Chapter 2, LSI linear translation invariant systems and transformations
 
-Where LSI linear translation invariant systems and transformations
-
-Includes, introduction to linear translation invariant systems
+introduce
 
 Fourier transform
 
 Image sampling
 
-------------
+### Chapter 9, visual data dimensionality reduction as feature extraction
 
-Visual data dimensionality reduction as feature extraction
-
-Includes, feature extraction/dimension reduction introduction
+Introduction to feature extraction/dimension reduction
 
 PCA, principal component analysis
 
@@ -44,17 +58,15 @@ LDA, linear discriminant analysis
 
 Classification of subspaces/feature Spaces
 
----
+### Chapter 10, Neural Networks and Deep Learning, from MLP to CNN
 
-Neural networks and deep Learning, from MLP to CNN
-
-Including network structure and neuron model
+Network structure and neuron model
 
 Multilayer perceptron and backpropagation
 
 Convolutional neural networks CNN
 
---------------
+### Chapter 12, Video analysis
 
 Video: Generate
 
@@ -62,7 +74,7 @@ Video: Generate
 
 2. Antagonistic learning
 
------------
+### Chapter 13, Video recognition
 
 Video: Analysis/Enhancement
 
@@ -78,7 +90,9 @@ Video: Analysis/Enhancement
 
 6. Video segmentation
 
-----------------
+### Chapter 14, 3D machine Perception
+
+### Chapter 15, 3D machine Vision
 
 3D: Key points and motion structure
 
@@ -91,20 +105,3 @@ Stereoscopic imaging
 3D meets deep learning
 
 GAN for 3D
-
-
-
-## 3.Find out a mistake 
-
-As there is no standard answer, if you detect any error in the answer, it is due to my limited knowledge level. 
-
-Please leave a message or send an email or some Wechat messages to me and I will update the version as soon as possible. 
-
-My Email: freshmanfreshman0011@gmail.com
-
-My Wechat: freshman2233
-
-## 4.Declare
-
-This resource is for learning and communication only. It is strictly prohibited for commercial use. Please delete it within 24 hours.
-
