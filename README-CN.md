@@ -192,23 +192,23 @@ Wechat: freshman2233
 
 12.2.对抗学习
 
-12.1.GANs
+12.2.1.GANs
 
-12.2.Conditional GANs
+12.2.2.Conditional GANs
 
-12.3.Super Resolution GANs
+12.2.3.Super Resolution GANs
 
-12.4.CycleGAN
+12.2.4.CycleGAN
 
-12.5.Diffusion Probabilistic Models 
+12.2.5.Diffusion Probabilistic Models 
 
-12.6.Video GAN
+12.2.6.Video GAN
 
-12.7.StoryGAN：用于故事可视化的顺序条件GAN
+12.2.7.StoryGAN：用于故事可视化的顺序条件GAN
 
-12.8.用于视频生成的双流VAN 
+12.2.8.用于视频生成的双流VAN 
 
-12.9.Sora：作为世界模拟器的视频生成模型
+12.2.9.Sora：作为世界模拟器的视频生成模型
 
 
 
